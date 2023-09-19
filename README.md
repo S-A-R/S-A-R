@@ -1,7 +1,7 @@
 # Hello, I'm Suhaib Alothman 👋
 
 ## About Me
-I am Suhaib Al-Othman, I am 21 years old, a computer science student at Imam Abdul Rahman bin Faisal University. I've been passionate about programming since I was in middle school mainly because of gaming.
+I am Suhaib Al-Othman, I am 21 years old, a computer science student at Imam Abdul Rahman bin Faisal University. Things I'm interested in are programming, artificial intelligence, and machine learning.
 
 ## 🔧 Technologies & Tools
 - VSCode
