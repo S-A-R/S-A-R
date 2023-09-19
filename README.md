@@ -3,6 +3,13 @@
 ## About Me
 I am Suhaib Al-Othman, I am 21 years old, a computer science student at Imam Abdul Rahman bin Faisal University. Things I'm interested in are programming, artificial intelligence, and machine learning.
 
+## 👨🏻‍💻 programming language that i used
+- Python
+- c++
+- java
+- sql
+  
+
 ## 🔧 Technologies & Tools
 - VSCode
 - KALI linux
