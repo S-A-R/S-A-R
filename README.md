@@ -1,7 +1,7 @@
 # Hello, I'm Suhaib Alothman 👋
 
 ## 🙆🏻‍♂️ About Me
-I am Suhaib Al-Othman, I am 22 years old, a computer science student at Imam Abdul Rahman bin Faisal University. Things I'm interested in are programming, artificial intelligence, and machine learning.
+I am Suhaib Al-Othman, I am 23 years old, a computer science student at Imam Abdul Rahman bin Faisal University. Things I'm interested in are programming, artificial intelligence, and machine learning.
 
 ## 👨🏻‍💻 programming language that i used
 - Python
